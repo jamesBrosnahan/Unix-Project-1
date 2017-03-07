@@ -40,8 +40,8 @@ In many cases the commands had options. However, due to a transformation gone ba
 
 Notice how the "-1" option is missing from the ls command? For this project you will figure out what the options are, based on the basic command (e.g., ls) and the form of the output. In ~azuser/Project1 of your server you will find:
 
-    cd.txt - Output of running the command
-    cd.sh - List of commands, with options to fill in
+* cd.txt - Output of running the command
+* cd.sh - List of commands, with options to fill in
 
 -----------------------------------------------------------
 
